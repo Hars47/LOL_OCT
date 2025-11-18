@@ -1,0 +1,5 @@
+{
+  "name": "COPYYY",
+  "description": "An advanced web application that leverages a simulated hybrid deep learning model (Deeplab + TransUNet) and Gemini API to analyze retinal OCT images. Users can upload an OCT scan to receive a simulated segmentation map and a detailed AI-powered diagnosis for conditions like CNV, DME, and Drusen, complete with clinical explanations and model interpretability insights.",
+  "requestFramePermissions": []
+}
