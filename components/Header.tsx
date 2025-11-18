@@ -13,7 +13,6 @@ export const Header: React.FC = () => {
           </h1>
         </div>
         <div className="text-sm text-slate-400">
-            Powered by Gemini
         </div>
       </div>
     </header>
